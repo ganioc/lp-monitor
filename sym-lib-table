@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "lp-collapse")(type "KiCad")(uri "${KIPRJMOD}/lp-collapse.kicad_sym")(options "")(descr ""))
+  (lib (name "si2371eds")(type "KiCad")(uri "${KIPRJMOD}/si2371eds.kicad_sym")(options "")(descr ""))
+)
